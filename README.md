@@ -3,6 +3,8 @@
 
 ## Introduction
 In the dynamic world of customer analytics, my interactive Power BI dashboard is a gateway to unlocking the secrets behind repeat customer engagement. Here's a guided tour of the features that make this dashboard a powerful tool for understanding and optimizing your customer retention strategy.
+
+
 **Dataset**: https://github.com/aliahmad-1987/SalesAnalysis/blob/main/RepeatCustomerRate/repeat_customer_rate_data.csv  <br> 
 ![Repeat Customer Engagement Insights Power BI Dashboard snapshot](https://github.com/AnannyaMazumder/Repeat-Customer-Engagement-Insights--Power-BI-Dashboard/assets/138116291/4be2da6e-59e6-403c-9f86-175642187380)
 
